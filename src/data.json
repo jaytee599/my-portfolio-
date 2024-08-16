@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "FINANCIAL CHATBOT",
+    "description": "A financial chatbot to answer financial questions",
+    "logo": "/images/fundtalk.jpg",
+    "logo1": "/images/fundtalk1.jpg",
+    "logo2": "/images/fundtalk2.jpg",
+    "skills": ["MERN STACK", "API", "BOOTSTRAP"],
+    "website": "https://finalfundtalk.onrender.com",
+    "github": "https://github.com/BabatundeJimoh/FundTalk.git",
+    "animation": {
+      "type": "fade-down",
+      "easing": "linear",
+      "duration": 1500
+    }
+  },
+  {
+    "id": 2,
+    "title": "DEV JOBS",
+    "description": "A webapp to help users search for jobs",
+    "logo": "/images/dev.jpg",
+    "skills": ["REACT", "BOOTSTRAP"],
+    "website": "https://devjobs-jt.netlify.app/",
+    "github": "https://github.com/jaytee599/DevJobs-Project.git",
+    "animation": {
+      "type":"fade-right",
+      "easing": "ease-in-out"
+    }
+  },
+  {
+    "id": 3,
+    "title": "E-COMMERCE",
+    "description": "A webapp to help users shop for products",
+    "logo": "/images/ecommerce.jpg",
+    "skills": ["REACT", "REDUX", "BOOTSTRAP", "FIREBASE"],
+    "website": "https://ecommerce-jt.netlify.app/",
+    "github": "https://github.com/jaytee599/ecommerce-app.git",
+    "animation": {
+      "type":"fade-down-right"
+    }
+  },
+  {
+    "id": 4,
+    "title": "MAVE SPORTS",
+    "description": "A website for sports fans specifically football and basketball",
+    "logo": "/images/mave1.jpg",
+    "skills": ["WORDPRESS"],
+    "website": "https://mavesports.com/",
+    "github": "https://mavesports.com/",
+    "animation": {
+      "type":"flip-left"
+    }
+  },
+  {
+    "id": 5,
+    "title": "EA TOUR",
+    "description": "Explore and discover the best tourism content in Ghana",
+    "logo": "/images/tour.jpg",
+    "skills": ["HTML", "CSS", "JavaScript", "BOOTSTRAP"],
+    "website": "https://tour-jt.netlify.app/",
+    "github": "https://github.com/jaytee599/EA-Tour.git",
+    "animation": {
+      "type":"flip-right"
+    }
+  },
+  {
+    "id": 6,
+    "title": "API PROJECTS",
+    "description": "A collection of different web apps that utilize APIs",
+    "logo": "/images/API.jpg",
+    "skills": ["HTML", "VANILLA CSS", "JAVASCRIPT", "REST API"],
+    "website": "https://api-app-jt.netlify.app/",
+    "github": "https://github.com/jaytee599/Api-projects.git",
+    "animation": {
+      "type":"flip-up"
+    }
+  },
+  {
+    "id": 7,
+    "title": "TERMINAL CHATBOT",
+    "description": "A chatbot to communicate with an AI in the terminal",
+    "logo": "/images/terminal.jpg",
+    "skills": ["NODE JS", "JAVASCRIPT", "API"],
+    "website": "",
+    "github": "https://github.com/jaytee599/terminal-chatbot.git",
+    "animation": {
+      "type":"flip-down"
+    }
+  },
+  {
+    "id": 8,
+    "title": "PERSONAL BLOG",
+    "description": "A website where I share my thoughts, ideas and experiences",
+    "logo": "/images/blog.jpg",
+    "skills": ["HTML", "CSS", "NODE JS", "MONDODB", "EXPRESS JS"],
+    "website": "https://ea-blog.onrender.com/",
+    "github": "https://github.com/jaytee599/blog.git",
+    "animation": {
+      "type":"zoom-in-right"
+    }
+  },
+  {
+    "id": 9,
+    "title": "LIVE CHAT",
+    "description": "A webapp to helps users communicate with eachother",
+    "logo": "/images/livechat1.jpg",
+    "logo2": "/images/livechat2.jpg",
+    "skills": ["TAILWIND", "MERN STACK"],
+    "website": "",
+    "github": "https://github.com/jaytee599/livechat.git",
+    "animation": {
+      "type":"zoom-in-left"
+    }
+  },
+   {
+    "id": 10,
+    "title": "COUNTRY APP",
+    "description": "A website that contains details of all countries in the world",
+    "logo": "/images/country-app.jpg",
+    "skills": ["API", "TAILWIND", "REACT"],
+    "website": "https://countries-app-jt.netlify.app/",
+    "github": "https://github.com/jaytee599/countries-app.git",
+    "animation": {
+      "type":"zoom-out-up"
+    }
+  }
+  
+
+]
